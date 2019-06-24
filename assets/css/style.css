@@ -1,3 +1,13 @@
+body{
+    background-image: url("../images/prism.png");
+}
 .carousel-caption{
     background-color: rgb(68,68,68, 0.5);
+}
+.featurette-caption{
+    background-color: rgb(68,68,68, 0.5);
+    color: #EEEEEE;
+}
+.main-padding{
+    padding-top: 20px;
 }
