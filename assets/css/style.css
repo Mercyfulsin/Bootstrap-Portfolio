@@ -15,3 +15,8 @@ footer ul.social li:hover a i {
 	font-size:30px;
 	margin-top:-10px;
 }
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
