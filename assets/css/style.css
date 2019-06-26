@@ -8,9 +8,6 @@ body{
     background-color: rgb(68,68,68, 0.5);
     color: #EEEEEE;
 }
-.main-padding{
-    padding-top: 20px;
-}
 footer ul.social li:hover a i {
 	font-size:30px;
 	margin-top:-10px;
@@ -18,5 +15,4 @@ footer ul.social li:hover a i {
 footer{
     position: fixed;
     bottom: 0;
-    width: 100%;
 }
